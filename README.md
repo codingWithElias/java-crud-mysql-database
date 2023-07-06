@@ -1,6 +1,6 @@
-# Java Login & Sign Up GUI
+# Java GUI crud with MYSQL Database XAMPP
 
-## JAVA - How To Design Login And Register Form In Java Netbeans
+## Simple Project step by step using mysql database and Netbeans IDE
 
 
 version: 1.0.0
@@ -14,7 +14,7 @@ version: 1.0.0
 
 ## Full Tutorial
 
-[On Youtube](https://youtu.be/jHSBrX8lLWk)
+[On Youtube](https://youtu.be/9aQb6CWYQ0E)
 
 ## Authors
 
